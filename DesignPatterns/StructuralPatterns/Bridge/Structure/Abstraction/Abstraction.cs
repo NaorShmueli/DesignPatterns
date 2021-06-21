@@ -10,6 +10,7 @@ namespace Bridge.Structure.Abstraction
     /// <summary>
     /// Client work only with this
     /// Or with Refind abstraction for updates features
+    /// Abstraction can be interface with related implemenation
     /// </summary>
     class Abstraction
     {
