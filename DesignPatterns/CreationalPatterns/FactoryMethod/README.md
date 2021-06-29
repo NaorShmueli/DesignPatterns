@@ -37,7 +37,7 @@ Factory Method is a creational design pattern that provides an interface for cre
 
 ![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/CreationalPatterns/Images/FactoryMethod.JPG?raw=true)
 
-# NOTE:
+# Notes:
 
  * Abstract Factory pattern defers creation of product objects to the ConcreteFactory subclass. 
    Since a client is expecting Factory class (which is the parent of ConcreteFactory subclasses) as a method parameter; 
