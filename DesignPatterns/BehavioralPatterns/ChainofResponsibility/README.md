@@ -41,7 +41,7 @@ Chain of Responsibility is a behavioral design pattern that lets you pass reques
 
 # Structure:
 
-![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/ChainofResponsibility/ChainofResponsibility.JPG?raw=true)
+![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/Images/ChainofResponsibility.JPG?raw=true)
 
 ## Authors
 
