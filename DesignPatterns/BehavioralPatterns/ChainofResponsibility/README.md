@@ -47,4 +47,4 @@ Chain of Responsibility is a behavioral design pattern that lets you pass reques
 
 ## Authors
 
-ex. [@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)
+[@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)
