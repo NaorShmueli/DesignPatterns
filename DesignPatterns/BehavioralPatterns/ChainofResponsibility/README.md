@@ -42,9 +42,9 @@ Chain of Responsibility is a behavioral design pattern that lets you pass reques
 # Cons
  1. Some requests may end up unhandled
 
-# Structure
-	![Alt text](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/ChainofResponsibility/ChainofResponsibility.JPG?raw=true)
-	![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Alt text](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/ChainofResponsibility/ChainofResponsibility.JPG?raw=true)
+
 ## Authors
 
 [@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)
