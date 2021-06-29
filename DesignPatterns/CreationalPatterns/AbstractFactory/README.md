@@ -32,6 +32,6 @@ Abstract Factory is a creational design pattern that lets you produce families o
 
 ![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/CreationalPatterns/Images/AbstractFactory.JPG?raw=true)
 
-## Authors
+## Author
 
 [@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)

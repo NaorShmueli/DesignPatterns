@@ -1,1 +1,0 @@
-﻿Prototype pattern also known as Clone pattern

@@ -58,3 +58,7 @@ Factory Method is a creational design pattern that provides an interface for cre
    The motivation to apply these patterns is different. 
    In AbstractFactory you want to be able to create multiple families of products but in Factory you are providing 
    hooks for subclasses (Concrete factories) to be able to create ConcreteProduct
+
+## Author
+
+[@NaorShmueli](https://www.linkedin.com/in/naor-shmueli-681b06127)
