@@ -37,8 +37,8 @@ Bridge is a structural design pattern that lets you split a large class or a set
 
 
 # Note
-##Adapter vs Bridge pattern
-###Key differences:
+## Adapter vs Bridge pattern
+### Key differences:
 
  1. Bridge makes them work before they are.
     Adapter makes things work after they're designed; 
