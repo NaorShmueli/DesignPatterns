@@ -1,1 +1,0 @@
-﻿Composite pattern also known as Object Tree pattern
