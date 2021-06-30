@@ -1,1 +1,0 @@
-﻿Decorator pattern also known as Wrapper pattern
