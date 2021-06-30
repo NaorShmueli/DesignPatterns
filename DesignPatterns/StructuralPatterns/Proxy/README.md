@@ -23,7 +23,7 @@ Proxy is a structural design pattern that lets you provide a substitute or place
  3. The proxy works even if the service object isn’t ready or is not available.
  4. Open/Closed Principle. You can introduce new proxies without changing the service or clients.
 
-<div style={color:'red'}> # Cons</div>
+# Cons
  
  1. The code may become more complicated since you need to introduce a lot of new classes.
  2. The response from the service might get delayed.
