@@ -40,6 +40,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{A8295E74-A6DE-44B2-901D-84DE4BC089E8}"
 	ProjectSection(SolutionItems) = preProject
 		BehavioralPatterns\Images\ChainofResponsibility.JPG = BehavioralPatterns\Images\ChainofResponsibility.JPG
+		BehavioralPatterns\Images\Command.JPG = BehavioralPatterns\Images\Command.JPG
+		BehavioralPatterns\Images\Iterator.JPG = BehavioralPatterns\Images\Iterator.JPG
+		BehavioralPatterns\Images\Mediator.JPG = BehavioralPatterns\Images\Mediator.JPG
+		BehavioralPatterns\Images\Memento.JPG = BehavioralPatterns\Images\Memento.JPG
+		BehavioralPatterns\Images\Observer.JPG = BehavioralPatterns\Images\Observer.JPG
+		BehavioralPatterns\Images\State.JPG = BehavioralPatterns\Images\State.JPG
+		BehavioralPatterns\Images\Strategy.JPG = BehavioralPatterns\Images\Strategy.JPG
+		BehavioralPatterns\Images\TemplateMethod.JPG = BehavioralPatterns\Images\TemplateMethod.JPG
+		BehavioralPatterns\Images\Visitor.JPG = BehavioralPatterns\Images\Visitor.JPG
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{17EE9579-8ADE-4705-A532-C5D059FF8D2C}"
