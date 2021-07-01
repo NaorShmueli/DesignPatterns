@@ -43,7 +43,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{A8295E
 		BehavioralPatterns\Images\Command.JPG = BehavioralPatterns\Images\Command.JPG
 		BehavioralPatterns\Images\Iterator.JPG = BehavioralPatterns\Images\Iterator.JPG
 		BehavioralPatterns\Images\Mediator.JPG = BehavioralPatterns\Images\Mediator.JPG
-		BehavioralPatterns\Images\Memento.JPG = BehavioralPatterns\Images\Memento.JPG
 		BehavioralPatterns\Images\Observer.JPG = BehavioralPatterns\Images\Observer.JPG
 		BehavioralPatterns\Images\State.JPG = BehavioralPatterns\Images\State.JPG
 		BehavioralPatterns\Images\Strategy.JPG = BehavioralPatterns\Images\Strategy.JPG

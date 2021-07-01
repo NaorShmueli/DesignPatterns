@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Memento.Implementation
 {
-    class Snapshot : IMemento
+    class EditorSnapshot : IMemento
     {
         private Editor _editor;
         private string _text;
@@ -15,7 +15,7 @@ namespace Memento.Implementation
         private bool _isBold;
         private DateTime _date;
         
-        public Snapshot(Editor editor, string text,int size,bool isBold)
+        public EditorSnapshot(Editor editor, string text,int size,bool isBold)
         {
             _editor = editor;
             _text = text;

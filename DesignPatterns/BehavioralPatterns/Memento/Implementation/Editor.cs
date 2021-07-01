@@ -15,7 +15,7 @@ namespace Memento.Implementation
 
         public IMemento Save()
         {
-            return new Snapshot(this, Text, Size, IsBold);
+            return new EditorSnapshot(this, Text, Size, IsBold);
         }
     }
 }
