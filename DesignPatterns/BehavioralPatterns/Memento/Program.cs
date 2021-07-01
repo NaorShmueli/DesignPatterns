@@ -7,17 +7,18 @@ namespace Memento
     {
         static void Main(string[] args)
         {
+            var command = new Caretaker();
             var editor = new Editor();
-            var command = new Caretaker(editor);
+
             editor.Text = "Text 1";
             editor.Size = 1;
-            command.Backup();
+            command.Backup(editor.Save());
             editor.Text = "Text 2";
             editor.Size = 10;
-            command.Backup();
+            command.Backup(editor.Save());
             editor.Text = "Text 3";
             editor.Size = 100;
-            command.Backup();
+            command.Backup(editor.Save());
             command.PrintHistory();
             editor.Text = "mistakeeeeeee";
             editor.Size = 1515;

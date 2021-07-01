@@ -17,15 +17,5 @@ namespace Memento.Implementation
         {
             return new Snapshot(this, Text, Size, IsBold);
         }
-
-        // Restores the Originator's state from a memento object.
-        public void Restore(IMemento memento)
-        {
-
-            Text = memento.GetText();
-            Size = memento.GetSize();
-            IsBold = memento.GetBold();
-            Console.WriteLine($"Originator: My state has changed to: {memento.GetFullState()}");
-        }
     }
 }

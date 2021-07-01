@@ -24,29 +24,16 @@ namespace Memento.Implementation
             _date = DateTime.Now;
         }
 
-        public bool GetBold()
-        {
-            return _isBold;
-        }
-
-        public DateTime GetDate()
-        {
-            return _date;
-        }
-
-        public int GetSize()
-        {
-            return _size;
-        }
-
         public string GetFullState()
         {
             return $"{_date}::{_text}::{_size}::{_isBold}";
         }
 
-        public string GetText()
+        public void Restore()
         {
-            return _text;
+            _editor.IsBold = _isBold;
+            _editor.Size = _size;
+            _editor.Text = _text;
         }
     }
 }

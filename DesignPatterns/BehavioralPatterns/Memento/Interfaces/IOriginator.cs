@@ -9,6 +9,5 @@ namespace Memento.Interfaces
     interface IOriginator
     {
         IMemento Save();
-        void Restore(IMemento memento);
     }
 }

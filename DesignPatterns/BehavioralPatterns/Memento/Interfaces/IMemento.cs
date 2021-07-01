@@ -8,10 +8,8 @@ namespace Memento.Interfaces
 {
     interface IMemento
     {
-        string GetText();
         string GetFullState();
-        int GetSize();
-        bool GetBold();
-        DateTime GetDate();
+        void Restore();
+
     }
 }

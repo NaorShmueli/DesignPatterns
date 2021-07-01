@@ -10,21 +10,21 @@ namespace Memento.Implementation
     class Caretaker
     {
         private Stack<IMemento> _history;
-        private Editor _editor;
-        public Caretaker(Editor editor)
+        public Caretaker()
         {
-            _editor = editor;
             _history = new Stack<IMemento>();
         }
 
-        public void Backup()
+        public void Backup(IMemento memento)
         {
-            this._history.Push(_editor.Save());
+            _history.Push(memento);
         }
         public void Undo()
         {
             var history = _history.Pop();
-           _editor.Restore(history);
+            history.Restore();
+            Console.WriteLine($"Originator: My state has changed to: {history.GetFullState()}");
+
         }
         public void PrintHistory()
         {

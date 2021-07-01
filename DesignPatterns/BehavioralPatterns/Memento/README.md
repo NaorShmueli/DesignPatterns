@@ -37,8 +37,14 @@ Memento is a behavioral design pattern that lets you save and restore the previo
  3. Most dynamic programming languages, such as PHP, Python and JavaScript, can’t guarantee that the state within the memento stays untouched.
 
 # Structure:
+## Nested Implementation
+![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/Images/Memento1.JPG?raw=true)
 
-![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/Images/Memento.JPG?raw=true)
+## Intermediate interface
+![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/Images/Memento2.JPG?raw=true)
+
+## Stricter Encapsulation (My Implementation)
+![Structure](https://github.com/NaorShmueli/DesignPatterns/blob/master/DesignPatterns/BehavioralPatterns/Images/Memento3.JPG?raw=true)
 
 ## Authors
 
