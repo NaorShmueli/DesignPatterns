@@ -21,7 +21,7 @@ Each project contain readme file with explanations.
   * [Decorator](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/StructuralPatterns/Decorator)
   * [Facade](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/StructuralPatterns/Facade)
   * [Flyweight](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/StructuralPatterns/Flyweight)
-  * [Facade](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/StructuralPatterns/Proxy)
+  * [Proxy](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/StructuralPatterns/Proxy)
 
 ## Behavioral Patterns
 
