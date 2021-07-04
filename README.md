@@ -11,7 +11,7 @@ Each project contain readme file with explanations.
   * [FactoryMethod](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/CreationalPatterns/FactoryMethod)
   * [Builder](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/CreationalPatterns/Builder)
   * [Prototype](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/CreationalPatterns/Prototype)
-  * [Singleton](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/BehavioralPatterns/ChainofResponsibility)
+  * [Singleton](https://github.com/NaorShmueli/DesignPatterns/tree/master/DesignPatterns/CreationalPatterns/Singleton)
 
 ## Structural Patterns
 
