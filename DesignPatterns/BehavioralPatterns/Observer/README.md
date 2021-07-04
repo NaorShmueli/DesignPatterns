@@ -23,6 +23,7 @@ Observer is a behavioral design pattern that lets you define a subscription mech
     But there’s another option. Upon receiving a notification, the subscriber can fetch any data directly from the notification. In this case, the publisher must pass itself via the update method. The less flexible option is to link a publisher to the subscriber permanently via the constructor.
 
  7. The client must create all necessary subscribers and register them with proper publishers.
+
 # Pros
 
   1. Open/Closed Principle. You can introduce new subscriber classes without having to change the publisher’s code (and vice versa if there’s a publisher interface).
