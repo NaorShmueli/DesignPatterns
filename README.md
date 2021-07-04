@@ -3,9 +3,7 @@
 ## Description
 
 Solution contains 22 project for common design patterns writen with c# .NET CORE 5
-Each project contain readme file with explanations
-
-## Links
+Each project contain readme file with explanations.
 
 ## Creational Patterns
 
